@@ -1,0 +1,1 @@
+1 = no skill, 3 = average, 5 = expert Programming,5 Math,4 Statistics,3 Machine Learning,3 Travel,4 Hospitality,4 Communication,2 Data visualization,3 Data Gathering,4 Data Cleansing,4 My primary goal is to increase my Statistics and Machine Learning skills and maybe increase my communication skills
